@@ -1,0 +1,17 @@
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\BookCovers.Api.exe
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\BookCovers.Api.deps.json
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\BookCovers.Api.runtimeconfig.json
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\BookCovers.Api.runtimeconfig.dev.json
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\BookCovers.Api.dll
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\bin\Debug\netcoreapp3.0\BookCovers.Api.pdb
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\staticwebassets\BookCovers.Api.StaticWebAssets.Manifest.cache
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\staticwebassets\BookCovers.Api.StaticWebAssets.xml
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\BookCovers.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\BookCovers.Api.AssemblyInfoInputs.cache
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\BookCovers.Api.AssemblyInfo.cs
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\BookCovers.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\BookCovers.Api.dll
+C:\Users\Hemanth N Raj\Desktop\Ragha\Source\Repos\WebApplication1\BookCovers.Api\obj\Debug\netcoreapp3.0\BookCovers.Api.pdb
